@@ -1,4 +1,4 @@
-# 🎵Watch out! Here comes a Spider-Man🎵
+# 🎵Watch out! Here comes the Spider-Man🎵
 
 Switch between the light and dark themes to see different Spideys!
 

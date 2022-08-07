@@ -1,3 +1,5 @@
-# [ADD A TITLE FOR THESE DOCS]
+# Material for MkDocs example: Light & dark theme - Spider-Man
 
-[PROVIDE AN OVERVIEW ABOUT THIS DOCS REPOSITORY. THE CONTENTS HERE SHOULD MATCH THE [DOCS/INDEX.MD](docs/index.md) FILE.]
+🎵Watch out! Here comes a Spider-Man🎵
+
+Go to [🎵Watch out! Here comes a Spider-Man🎵](https://josh-wong.github.io/material-for-mkdocs-example-light-dark-spiderman/), and switch between the light and dark themes to see different Spideys!

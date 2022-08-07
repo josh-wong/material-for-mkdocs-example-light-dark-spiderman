@@ -4,6 +4,8 @@ metadata:
   name: "material-for-mkdocs-example-light-dark-spiderman"
   tags:
     - markdown
+  annotations:
+    backstage.io/techdocs-ref: value
 spec:
   type: docs
   lifecycle: production

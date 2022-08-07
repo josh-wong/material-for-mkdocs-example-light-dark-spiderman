@@ -1,16 +1,16 @@
-site_name: <SITE NAME>
-site_url: https://josh-wong.github.io/<SLUG URL>/
+site_name: 🎵Watch out! Here comes a Spider-Man🎵
+site_url: https://josh-wong.github.io/material-for-mkdocs-example-light-dark-spiderman/
 
 # Add repository details in the top right-hand corner
-repo_name: josh-wong/<SLUG URL>
-repo_url: https://github.com/josh-wong/<SLUG URL>
+repo_name: josh-wong/material-for-mkdocs-example-light-dark-spiderman
+repo_url: https://github.com/josh-wong/material-for-mkdocs-example-light-dark-spiderman
 # > **Warning**
 # >
 # > This edit page button does not work. I have prioritized the 
 # multidocs site, so the edit page button on https://josh-wong.github.io 
 # is correct; there doesn't seem to be a way to remove it from one site 
 # and keep it on the other.
-edit_uri: blob/main/
+# edit_uri: blob/main/
 
 plugins:
   - search
@@ -34,9 +34,9 @@ markdown_extensions:
 theme:
   name: material
   # Add favicon to browser tab
-  favicon: assets/images/favicon.png
+  favicon: assets/images/spider-man-face.png
   # Add logo to docs pages
-  #logo: assets/images/<LOGO ITEM>.png
+  logo: assets/images/spider-man-face.png
   # Add icon to show repository information and link
   icon:
     repo: fontawesome/brands/github
@@ -56,13 +56,13 @@ theme:
         name: Switch to light mode
       primary: blue
       accent: blue
-  features:
+  #features:
     # Add custom search functions
-    - search.suggest
-    - search.highlight
-    - search.share
-    - navigation.tracking
-    - navigation.top
+    #- search.suggest
+    #- search.highlight
+    #- search.share
+    #- navigation.tracking
+    #- navigation.top
 
 extra:
   social:
@@ -78,11 +78,6 @@ extra:
 
 nav:
   - Overview: 'index.md'
-  - Getting started: '01_getting-started.md'
-#  - [ADD TITLE]: '02_[GERUND]_[TOPIC].md' # Add any additional pages as necessary, but be sure to change the page numbering.
-  - Conclusion: '03_conclusion.md'
-  - References: '04_references.md'
-  - Contributions: '05_contributions.md'
   - '': ''
   - '': ''
   - 🏠Home: 'https://josh-wong.github.io'

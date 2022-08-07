@@ -1,3 +1,6 @@
-# [ADD A TITLE FOR THESE DOCS]
+# 🎵Watch out! Here comes a Spider-Man🎵
 
-[PROVIDE AN OVERVIEW ABOUT THIS DOCS REPOSITORY. THE CONTENTS HERE SHOULD MATCH THE [README.MD](../README.md) FILE.]
+Switch between the light and dark themes to see different Spideys!
+
+![Image title](assets/images/spiderbrick.jpg#only-light)
+![Image title](assets/images/spooderman.jpg#only-dark)

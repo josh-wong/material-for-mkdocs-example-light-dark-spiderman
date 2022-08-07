@@ -1,11 +1,14 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "material-for-mkdocs-example-light-dark-spiderman"
+  name: material-for-mkdocs-example-light-dark-spiderman
+  title: material-for-mkdocs-example-light-dark-spiderman
+  description: This is a sample repository showing how you can show different types of data for light and dark modes in Material for MkDocs.
   tags:
     - markdown
   annotations:
-    backstage.io/techdocs-ref: value
+    github.com/project-slug: josh-wong/material-for-mkdocs-example-light-dark-spiderman
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: docs
   lifecycle: production

@@ -34,9 +34,9 @@ markdown_extensions:
 theme:
   name: material
   # Add favicon to browser tab
-  favicon: assets/images/spider-man-face.png
+  favicon: assets/images/favicon.png
   # Add logo to docs pages
-  logo: assets/images/spider-man-face.png
+  logo: assets/images/favicon.png
   # Add icon to show repository information and link
   icon:
     repo: fontawesome/brands/github

@@ -14,7 +14,7 @@ repo_url: https://github.com/josh-wong/material-for-mkdocs-example-light-dark-sp
 
 plugins:
   - search
-  - techdocs-core
+  #- techdocs-core
   # Show the last updated date
   - git-revision-date-localized:
       type: date

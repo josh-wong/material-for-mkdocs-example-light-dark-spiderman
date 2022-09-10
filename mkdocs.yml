@@ -34,6 +34,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      # Add link next to header that allows the user to get a permalink to the heading (still need to copy the URL in the address bar).
+      permalink: true
 
 theme:
   name: material
